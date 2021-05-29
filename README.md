@@ -1,5 +1,11 @@
 # Kraken REST API Client
 
+**DEPRECATED**: This repository is superseded by:
+
+https://github.com/gmosx/rust_kraken_sdk
+
+---
+
 A strongly-typed Rust client for the [Kraken REST API](https://www.kraken.com/features/api).
 
 ## Installation
